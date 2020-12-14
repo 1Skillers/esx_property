@@ -15,7 +15,7 @@
 ```
 
 ### Manually
-- Download https://github.com/ESX-Org/esx_property/archive/master.zip
+- Download https://github.com/1Skillers/esx_property/archive/1.0.0.zip
 - Put it in the `[esx]` directory
 
 ## Installation
